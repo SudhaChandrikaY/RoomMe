@@ -28,11 +28,8 @@ export const mockRoommates: RoommateProfile[] = [
     bio: 'Software engineer who enjoys gaming and music. Sociable but respects quiet time.',
     interests: ['Gaming', 'Music Production', 'Tech', 'Coffee'],
     contactInfo: {
-      email: 'jordan.smith@techmail.com',
-      phone: '+1 (555) 234-5678',
-      linkedin: 'linkedin.com/in/jordansmith-dev',
-      instagram: '@jordan_codes',
-      preferredMethod: 'linkedin'
+      email: 'abcd@email.com',
+      preferredMethod: 'email'
     }
   },
   {
@@ -53,7 +50,7 @@ export const mockRoommates: RoommateProfile[] = [
   },
   {
     id: '4',
-    name: 'Sam Rodriguez',
+    name: 'Sam',
     age: 29,
     noisePreference: 'loud',
     cleanliness: 'casual',
@@ -62,15 +59,14 @@ export const mockRoommates: RoommateProfile[] = [
     bio: 'Artist and musician who loves creative energy. Dog owner looking for pet-friendly space.',
     interests: ['Music', 'Art', 'Dogs', 'Concerts'],
     contactInfo: {
-      email: 'sam.rodriguez@artmail.com',
-      instagram: '@samrodriguez_art',
-      phone: '+1 (555) 456-7890',
-      preferredMethod: 'instagram'
+      email: 'xyz@email.com',
+      phone: '+1 (972) 656-9433',
+      preferredMethod: 'email'
     }
   },
   {
     id: '5',
-    name: 'Riley Johnson',
+    name: 'Riley',
     age: 26,
     noisePreference: 'moderate',
     cleanliness: 'clean',
@@ -79,16 +75,15 @@ export const mockRoommates: RoommateProfile[] = [
     bio: 'Marketing professional with a cat. Enjoys socializing and movie nights.',
     interests: ['Marketing', 'Movies', 'Cats', 'Social Events'],
     contactInfo: {
-      email: 'riley.johnson@marketing.com',
-      phone: '+1 (555) 567-8901',
-      linkedin: 'linkedin.com/in/rileyjohnson-marketing',
-      instagram: '@riley_and_whiskers',
-      preferredMethod: 'phone'
+      phone: '+1 (972) 656-9433',
+      linkedin: 'https://www.linkedin.com/in/jagadeeshsaidokku/',
+      instagram: '@__chandrika___',
+      preferredMethod: 'instagram'
     }
   },
   {
     id: '6',
-    name: 'Casey Wu',
+    name: 'Casey',
     age: 25,
     noisePreference: 'quiet',
     cleanliness: 'very-clean',
@@ -98,14 +93,14 @@ export const mockRoommates: RoommateProfile[] = [
     interests: ['Technology', 'Books', 'Running', 'Minimalism'],
     contactInfo: {
       email: 'casey.wu@techcorp.com',
-      linkedin: 'linkedin.com/in/caseywu-tech',
+      linkedin: 'https://www.linkedin.com/in/sai-sri-charitha-darapaneni-712553183/',
       phone: '+1 (555) 678-9012',
       preferredMethod: 'linkedin'
     }
   },
   {
     id: '7',
-    name: 'Taylor Brown',
+    name: 'Taylor B',
     age: 28,
     noisePreference: 'moderate',
     cleanliness: 'casual',
@@ -114,15 +109,14 @@ export const mockRoommates: RoommateProfile[] = [
     bio: 'Freelance writer who works from home. Enjoys occasional social gatherings.',
     interests: ['Writing', 'Travel', 'Food', 'Podcasts'],
     contactInfo: {
-      email: 'taylor.brown@freelancewriter.com',
-      instagram: '@taylor_writes',
-      linkedin: 'linkedin.com/in/taylorbrown-writer',
+      email: 'dsscharitha@gmail.com',
+      linkedin: 'https://www.linkedin.com/in/sudhachandrikay ',
       preferredMethod: 'email'
     }
   },
   {
     id: '8',
-    name: 'Avery Davis',
+    name: 'Avery',
     age: 22,
     noisePreference: 'loud',
     cleanliness: 'clean',
@@ -131,10 +125,9 @@ export const mockRoommates: RoommateProfile[] = [
     bio: 'College student and part-time DJ. High energy but responsible with chores.',
     interests: ['DJing', 'Dancing', 'Fitness', 'Pets'],
     contactInfo: {
-      email: 'avery.davis@college.edu',
-      instagram: '@dj_avery_beats',
-      phone: '+1 (555) 789-0123',
-      preferredMethod: 'instagram'
+      email: 'kluniversity977@gmail.com',
+      phone: '+1 (972) 656-9433',
+      preferredMethod: 'phone'
     }
   }
 ];
