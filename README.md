@@ -63,12 +63,12 @@ RoomMe can help:
 
 This MVP demonstrates the core value. Next, RoomMe can grow into a complete roommate matching solution with:
 
-🚀 **Profile Management:** Let users create, update, and verify detailed profiles.
-💬 **In-App Communication:** Enable secure chat or video calls between potential roommates.
-🤝 **Reviews & Ratings:** Build trust with transparent feedback from past living experiences.
-📱 **Mobile App:** Launch an easy-to-use mobile version for on-the-go roommate searching.
-🔗 **Integration with Rental Platforms:** Connect RoomMe to listings and lease management tools for a seamless move-in process.
-💳 **Secure Payments:** Offer deposit handling or rent-splitting services to make co-living easier.
+- 🚀 **Profile Management:** Let users create, update, and verify detailed profiles.
+- 💬 **In-App Communication:** Enable secure chat or video calls between potential roommates.
+- 🤝 **Reviews & Ratings:** Build trust with transparent feedback from past living experiences.
+- 📱 **Mobile App:** Launch an easy-to-use mobile version for on-the-go roommate searching.
+- 🔗 **Integration with Rental Platforms:** Connect RoomMe to listings and lease management tools for a seamless move-in process.
+- 💳 **Secure Payments:** Offer deposit handling or rent-splitting services to make co-living easier.
 
 ---
 
