@@ -92,9 +92,8 @@ export const mockRoommates: RoommateProfile[] = [
     bio: 'Tech professional who values cleanliness and quiet study time.',
     interests: ['Technology', 'Books', 'Running', 'Minimalism'],
     contactInfo: {
-      email: 'casey.wu@techcorp.com',
+      email: 'chandrikanaidu04@gmail.com',
       linkedin: 'https://www.linkedin.com/in/sai-sri-charitha-darapaneni-712553183/',
-      phone: '+1 (555) 678-9012',
       preferredMethod: 'linkedin'
     }
   },
